@@ -1,4 +1,4 @@
-# Links de Download
+# 🔗 Links de Download
  Downloads das tecnologias usadas:
 
 - Git: [download](https://git-scm.com/downloads)
